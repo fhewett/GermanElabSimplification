@@ -7,7 +7,10 @@ We have uploaded the alignment annotations directly to the [APA-RST repository](
 
 ## Categories of elaborative simplification
 
-.. coming soon
+More information on the categories can be found in the SIGDIAL paper.
+
+- For APA-RST: the file `apa-rst_categories.csv` has a column for the filename, the labelled sentence, the category, and the full text
+- For DEplain: coming soon
 
 ## Models
 
