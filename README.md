@@ -14,7 +14,11 @@ More information on the categories can be found in the SIGDIAL paper.
 
 ## Models
 
-.. coming soon
+- We used [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) as our baseline
+- [Fine-tuned A2 model](https://huggingface.co/frhew/sigdial_ft_a2)
+- [Fine-tuned B1 model](https://huggingface.co/frhew/sigdial_ft_b1)
+
+Scripts for inference / training: coming soon
 
 
 ## More information and citation
